@@ -1,0 +1,15 @@
+{
+  "name": "radiant-heretics-masquerade",
+  "version": "1.0.0",
+  "description": "DS automated testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.13.3"
+  }
+}
